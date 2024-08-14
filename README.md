@@ -4,7 +4,7 @@ Welcome to the **E-commerce Platform Payment Gateway Integration** project! This
 
 ## 🌐 Live Demo
 
-Experience the live version of the platform: [Live Demo](your-live-link-here)
+Experience the live version of the platform: [Live Demo]([your-live-link-here](https://stripe-2n40ziinx-shivshankar-yadavs-projects.vercel.app/))
 
 ## 📸 Screenshots
 
