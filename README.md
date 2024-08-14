@@ -6,6 +6,23 @@ Welcome to the **E-commerce Platform Payment Gateway Integration** project! This
 
 Experience the live version of the platform: [Live Demo](your-live-link-here)
 
+## 📸 Screenshots
+
+Here's a glimpse of the platform in action:
+
+- **🏠 Homepage:**
+  ![Homepage](your-screenshot-link-here)
+  *Explore our products with a sleek and modern interface.*
+
+- **🛒 Shopping Cart:**
+  ![Cart](your-screenshot-link-here)
+  *Review your selected items before proceeding to checkout.*
+
+- **💳 Checkout Page:**
+  ![Checkout](your-screenshot-link-here)
+  *Enter your payment details securely with Stripe.*
+  
+
 ## 📖 Table of Contents
 
 - [✨ Features](#-features)
@@ -101,22 +118,6 @@ The project requires the following environment variables. Add them to your `.env
 STRIPE_SECRET_KEY=your-stripe-secret-key
 STRIPE_PUBLISHABLE_KEY=your-stripe-publishable-key
 ```
-
-## 📸 Screenshots
-
-Here's a glimpse of the platform in action:
-
-- **🏠 Homepage:**
-  ![Homepage](your-screenshot-link-here)
-  *Explore our products with a sleek and modern interface.*
-
-- **🛒 Shopping Cart:**
-  ![Cart](your-screenshot-link-here)
-  *Review your selected items before proceeding to checkout.*
-
-- **💳 Checkout Page:**
-  ![Checkout](your-screenshot-link-here)
-  *Enter your payment details securely with Stripe.*
 
 ## 📜 License
 
