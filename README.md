@@ -11,7 +11,7 @@ Experience the live version of the platform: [Live Demo](your-live-link-here)
 Here's a glimpse of the platform in action:
 
 - **🏠 Homepage:**
-  ![Homepage](your-screenshot-link-here)
+  ![Homepage](![Screenshot 2024-08-14 223830](https://github.com/user-attachments/assets/31f1b1fa-30b4-427a-9f0d-f71d1205ef28))
   *Explore our products with a sleek and modern interface.*
 
 - **🛒 Shopping Cart:**
