@@ -1,7 +1,3 @@
-Here's a more detailed and emoji-enhanced README for your Stripe payment gateway integration project:
-
----
-
 # 🛍️ E-commerce Platform Payment Gateway Integration with Stripe
 
 Welcome to the **E-commerce Platform Payment Gateway Integration** project! This repository demonstrates how to integrate **Stripe**'s payment gateway into a fully functional e-commerce platform using **React** for the frontend and **Node.js** for the backend. This setup ensures secure, seamless, and user-friendly transactions for online shoppers.
@@ -125,7 +121,3 @@ Here's a glimpse of the platform in action:
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to customize further, and don't forget to replace placeholders like `your-live-link-here` and `your-screenshot-link-here` with the actual links. This version adds more detail and visual appeal, making the README both informative and engaging!
