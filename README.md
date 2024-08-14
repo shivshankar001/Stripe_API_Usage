@@ -15,11 +15,11 @@ Here's a glimpse of the platform in action:
   *Explore our products with a sleek and modern interface.*
 
 - **🛒 Shopping Cart:**
-  ![Cart](your-screenshot-link-here)
+  ![Cart](![Screenshot 2024-08-14 223900](https://github.com/user-attachments/assets/823a14b8-ed8b-4c1f-a76d-57254dec5e52))
   *Review your selected items before proceeding to checkout.*
 
 - **💳 Checkout Page:**
-  ![Checkout](your-screenshot-link-here)
+  ![Checkout](![Screenshot 2024-08-14 223933](https://github.com/user-attachments/assets/863034a4-2bad-47a4-b756-647608d436ae))
   *Enter your payment details securely with Stripe.*
   
 
